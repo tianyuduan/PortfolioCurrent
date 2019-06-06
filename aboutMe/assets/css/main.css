@@ -2673,3 +2673,21 @@ input, select, textarea {
 				}
 
 	}
+
+	.margin-left {
+		padding-left: 2em;
+	}
+
+	.center {
+		border: 2px solid red;
+		text-align: center !important;
+	}
+
+.image-center {
+	justify-content: center;
+	text-align: center;
+}
+
+.text-indent {
+	text-indent: 3em;
+}
